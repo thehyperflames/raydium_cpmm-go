@@ -1,4 +1,4 @@
-module raydium_cpmm-go
+module github.com/thehyperflames/raydium_cpmm-go
 
 go 1.24.2
 
